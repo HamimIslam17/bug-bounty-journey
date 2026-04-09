@@ -8,7 +8,7 @@ From Zero to Cybersecurity Skills — Learn in Public
 
 | Day | Status | Link |
 |-----|--------|------|
-| Day 01 | ⏳ Coming Soon | - |
+| Day 01 | ✅ Completed | [View](./Day-01) |
 | Day 02 | ⏳ Coming Soon | - |
 | Day 03 | ⏳ Coming Soon | - |
 
